@@ -1,4 +1,7 @@
-print("Bem-vindo ao JS Unibank!")
+print("\n===================================================")
+print(" JS Unibank - Sistema de Gerenciamento Bancário")
+print("===================================================")
+print("Seja bem-vindo(a) ao JS Unibank!")
 
 menu = """
 
